@@ -1,0 +1,65 @@
+.logo {
+    text-align: center;  
+}
+
+.conteiner {
+    width: 1000px;
+    margin: 50px auto 0;
+}
+
+.content {
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+}
+
+.content2 {
+    float: left;
+}
+
+.card {
+    text-align: center;
+    width: 23.33%;
+    height: 40px;
+    float: left;
+    padding: 5%;
+    background-color: rgb(209, 209, 209);
+    padding-bottom:30p;
+    padding-top: 5px;
+    margin-top: 2px;
+}
+
+.btn1 {
+    background-color: white;
+    width: 300px;
+    height: 25px;
+}
+
+.btn2{
+    background-color: rgb(230, 230, 230);
+}
+
+.btn3 {
+    background-color: white;
+    width: 150px;
+    height: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.bg-grey1 {
+    background-color: rgb(181, 181, 181);
+}
+
+.bg-grey2 {
+    background-color: rgb(163, 163, 163);
+}
+
+.bg-grey3 {
+    background-color: rgb(143, 143, 143);
+}
+
+a {
+    color: white;
+}
